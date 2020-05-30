@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>KML Click Capture Sample</title>
+
+  </head>
+  <body>
+	<div id="map" style="min-width: 800px; min-height: 660px"></div>    
+	<script>
+      var map;
+      var kmlUrl = './Poles Map.kml';
+
+		function initMap() {
+		  map = new google.maps.Map(document.getElementById('map'), {
+			zoom: 2,
+			mapTypeId: google.maps.MapTypeId.TERRAIN,
+			center: {
+			  lat: 41.876,
+			  lng: -87.624
+			}
+		  });
+		  
+			var kmlOptions = {
+			  suppressInfoWindows: true,
+			  preserveViewport: false,
+			  map: map
+			};
+			var kmlLayer = new google.maps.KmlLayer(kmlUrl, kmlOptions);
+
+		}
+		
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA6el973Nkc6E3C3wrAjyG_ybzvvL7xPuE&callback=initMap">
+    </script>
+  </body>
+</html>

@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Poles Map</name>
+    <description/>
+    <Style id="icon-seq2-0-0-FFD600-labelson-nodesc">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-1-FFD600-labelson-nodesc">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-10-FFD600-labelson-nodesc">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-11.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-11-FFD600-labelson-nodesc">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-12.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-12-FFD600-labelson-nodesc">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-13.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-13-FFD600-labelson-nodesc">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-14.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-14-FFD600-labelson-nodesc">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-15.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-15-FFD600-labelson-nodesc">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-16.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-2-FFD600-labelson-nodesc">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-3-FFD600-labelson-nodesc">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-4-FFD600-labelson-nodesc">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-5.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-5-FFD600-labelson-nodesc">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-6.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-6-FFD600-labelson-nodesc">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-7.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-7-FFD600-labelson-nodesc">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-8.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-8-FFD600-labelson-nodesc">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-9.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-9-FFD600-labelson-nodesc">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-10.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-1-0-FF5252-labelson-nodesc">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-17.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-1-1-FF5252-labelson-nodesc">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-18.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-1-10-FF5252-labelson-nodesc">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-27.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-1-11-FF5252-labelson-nodesc">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-28.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-1-12-FF5252-labelson-nodesc">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-29.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-1-2-FF5252-labelson-nodesc">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-19.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-1-3-FF5252-labelson-nodesc">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-20.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-1-4-FF5252-labelson-nodesc">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-21.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-1-5-FF5252-labelson-nodesc">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-22.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-1-6-FF5252-labelson-nodesc">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-23.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-1-7-FF5252-labelson-nodesc">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-24.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-1-8-FF5252-labelson-nodesc">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-25.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-1-9-FF5252-labelson-nodesc">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-26.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Folder>
+      <name>Nairobi</name>
+      <Placemark>
+        <name>Riara Road, Behind The Junction mall
+</name>
+        <styleUrl>#icon-seq2-0-0-FFD600-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            36.7630969,-1.2976276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nyeri road and Olenguruone road junction
+</name>
+        <styleUrl>#icon-seq2-0-1-FFD600-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            36.7816526,-1.2807304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Argwins Kodhek Road, Chaka Place
+</name>
+        <styleUrl>#icon-seq2-0-2-FFD600-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            36.7908867,-1.2928719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Haille Selassie, Community NHIF
+</name>
+        <styleUrl>#icon-seq2-0-3-FFD600-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            36.8125165,-1.2953198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>City stadium, Factory Street
+</name>
+        <styleUrl>#icon-seq2-0-4-FFD600-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            36.8406794,-1.2917172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kiambu Road, Ridgeways Mall
+</name>
+        <styleUrl>#icon-seq2-0-5-FFD600-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            36.8390981,-1.2254513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thika Super Highway, Drive in
+</name>
+        <styleUrl>#icon-seq2-0-6-FFD600-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            36.8642433,-1.2482396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Limuru Road, Karura Entrance
+</name>
+        <styleUrl>#icon-seq2-0-7-FFD600-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            36.8161125,-1.2477418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Donholm, Near Tumaini supermarket
+</name>
+        <styleUrl>#icon-seq2-0-8-FFD600-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            36.8878381,-1.301894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>North Airport Road,Opposite Southfield Mall
+</name>
+        <styleUrl>#icon-seq2-0-9-FFD600-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            36.8915078,-1.3294609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Lang'ata Road, Near Bomas of Kenya
+]]></name>
+        <styleUrl>#icon-seq2-0-10-FFD600-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            36.7670103,-1.342168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lunga Lunga Road
+</name>
+        <styleUrl>#icon-seq2-0-11-FFD600-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            36.8723014,-1.3074617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lower State house road and Dennis Pritt rd jn
+</name>
+        <styleUrl>#icon-seq2-0-12-FFD600-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            36.8041319,-1.286382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Uhuru Highway, Near Toyota Headquarters
+</name>
+        <styleUrl>#icon-seq2-0-13-FFD600-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            36.826243,-1.3039169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Outside City Hall entrance
+</name>
+        <styleUrl>#icon-seq2-0-14-FFD600-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            36.8222818,-1.2869503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mama Ngina Drive, Near Cooperative Bank
+</name>
+        <styleUrl>#icon-seq2-0-15-FFD600-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            36.8236863,-1.2854085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Others</name>
+      <Placemark>
+        <name>Makadara, Mombasa
+</name>
+        <styleUrl>#icon-seq2-1-0-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            39.6750649,-4.0612918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nkurumah, Mombasa
+</name>
+        <styleUrl>#icon-seq2-1-1-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            39.6774772,-4.0627288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Haile Sellasie, Mombasa
+</name>
+        <styleUrl>#icon-seq2-1-2-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            39.6632555,-4.057856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mtwapa, Mombasa
+</name>
+        <styleUrl>#icon-seq2-1-3-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            39.7495263,-3.941442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Malindi, Malindi
+</name>
+        <styleUrl>#icon-seq2-1-4-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            40.1168646,-3.2192201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bondo Town, Siaya
+</name>
+        <styleUrl>#icon-seq2-1-5-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            34.2759571,-0.1023201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Uganda Road, Eldoret
+</name>
+        <styleUrl>#icon-seq2-1-6-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            35.2678197,0.5201172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Road towards Busia Border, Busia
+</name>
+        <styleUrl>#icon-seq2-1-7-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            34.1005916,0.465092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oginga Odinga road, Kisumu
+</name>
+        <styleUrl>#icon-seq2-1-8-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            34.7508509,-0.0996871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nairobi Road,Kisumu
+</name>
+        <styleUrl>#icon-seq2-1-9-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            34.8290034,-0.1536991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nanyuki</name>
+        <styleUrl>#icon-seq2-1-10-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            37.0737804,0.0067155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SGR TERMINUS,SYOKIMAU
+</name>
+        <styleUrl>#icon-seq2-1-11-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            36.9030311,-1.3484786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thika Town</name>
+        <styleUrl>#icon-seq2-1-12-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            37.0833753,-1.0387569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
